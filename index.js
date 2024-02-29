@@ -6,5 +6,5 @@ let b = 5
 let c = a +b
 console.log(c);
 let amin = ['amin', 'sisir','apur']
-let split = amin.split(' ')
-console.log(split)
+let splits = amin.split(' ')
+console.log(splits)
