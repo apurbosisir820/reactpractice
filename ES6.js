@@ -109,4 +109,4 @@ let foods = {
     khasis : "payas"
 }
 console.log({...food,...foods});
-
+demo.innerHTML = {...food,...foods}
